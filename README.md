@@ -44,43 +44,27 @@ O frontend deste repositório consome uma API própria desenvolvida em .NET.
 
 ## 3. Espaço para fotos do app
 
-Este espaço foi reservado para a inserção das imagens oficiais do sistema.
-
-<table>
-	<tr>
-		<td align="center" width="50%">
-			<strong>Tela inicial / Landing Page</strong>
-			<br /><br />
-			<sub>Inserir screenshot aqui</sub>
-		</td>
-		<td align="center" width="50%">
-			<strong>Tela de login e autenticação</strong>
-			<br /><br />
-			<sub>Inserir screenshot aqui</sub>
-		</td>
-	</tr>
-	<tr>
-		<td align="center" width="50%">
-			<strong>Dashboard financeiro</strong>
-			<br /><br />
-			<sub>Inserir screenshot aqui</sub>
-		</td>
-		<td align="center" width="50%">
-			<strong>Transações, contas, metas e orçamentos</strong>
-			<br /><br />
-			<sub>Inserir screenshot aqui</sub>
-		</td>
-	</tr>
-</table>
-
-Se desejar, você pode substituir os espaços acima por imagens em Markdown, por exemplo:
-
-```md
-![Tela inicial](./docs/images/tela-inicial.png)
-![Dashboard](./docs/images/dashboard.png)
-```
-
----
+**Tela Inicial:**
+<img width="1880" height="954" alt="Tela Inicial" src="https://github.com/user-attachments/assets/ae80aefe-e197-4d1b-8de0-450983afbf4e" />
+-
+**Dashboard:**
+<img width="1881" height="952" alt="Dashboard" src="https://github.com/user-attachments/assets/b3855665-dfca-48c4-b660-a9393d4f72f2" />
+-
+**Transações:**
+<img width="1875" height="955" alt="Transações" src="https://github.com/user-attachments/assets/93f72557-38af-4e1d-a617-29d4d1414303" />
+-
+**Contas:**
+<img width="1880" height="958" alt="Contas" src="https://github.com/user-attachments/assets/d90aea77-e2ed-4949-bf2c-3b8c53a03be6" />
+-
+**Categorias:**
+<img width="1880" height="955" alt="Categorias" src="https://github.com/user-attachments/assets/1ee79233-157c-4873-a612-3887606183d1" />
+-
+**Orçamentos:**
+<img width="1876" height="957" alt="Orçamentos" src="https://github.com/user-attachments/assets/99cf3f4f-097d-40ca-b15a-b2079ba1c72e" />
+-
+**Metas:**
+<img width="1876" height="955" alt="Metas" src="https://github.com/user-attachments/assets/dedeb05f-6fb5-4e33-84f3-583c8658ef11" />
+-
 
 ## 4. Principais funcionalidades
 
